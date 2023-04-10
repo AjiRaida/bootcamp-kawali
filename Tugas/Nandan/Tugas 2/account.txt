@@ -1,0 +1,1 @@
+[{"user": "nandan", "amount": "0"}, {"user": "a", "amount": 20}]
